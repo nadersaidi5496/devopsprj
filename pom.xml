@@ -86,12 +86,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<servers>
-   <server>
-      <id>nexus</id>
-      <username>deploy</username>
-      <password>cdf6e680-ed8b-43a2-bcce-370b68c086c6</password>
-   </server>
-</servers>
 
 </project>
